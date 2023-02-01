@@ -56,5 +56,4 @@ OEmbed (Youtube)
 ```
 {% include youtube.html id="xxxxxxx" %}
 ```
-
-replace xxxxxxx with youtubeID and not the entire URL
+Replace xxxxxxx with youtubeID and not the entire URL
