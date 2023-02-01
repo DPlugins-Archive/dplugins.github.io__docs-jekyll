@@ -20,8 +20,6 @@ Well crafred premium design kit for bricks builder and winden.
 ---
 
 
-
-
 ## daisyUI
 ![](../../img/des-kits/daisyUI.png)
 
@@ -38,6 +36,15 @@ Mamba UI has over 155 components in more than 40 categories; the documentation h
 
 {: .external-links}
 [View Mamba UI](https://mambaui.com/)
+
+
+## Flowrift
+![](../../img/des-kits/flowrift.png)
+
+Awesome collection folowed by well crafted UI for previewing element and grabbing the code
+
+{: .external-links}
+[View Flowrift](https://flowrift.com/c/features)
 
 
 ## Headless UI
@@ -74,8 +81,6 @@ Flowbite has over 450 components; the documentation has component code for HTML 
 
 {: .external-links}
 [View Flowbite](https://flowbite.com/)
-
-
 
 
 ## MerakiUI
@@ -184,6 +189,18 @@ Tailwind UI Kit has over 1,300 components; the documentation has component code 
 
 {: .external-links}
 [View Tailwind UI Kit](https://tailwinduikit.com/)
+
+
+## Tailgrids
+![](../../img/des-kits/tailgrids.png)
+
+Ready to use Tailwind CSS UI Kit Components, Blocks, Sections, and Templates Specially Crafted for Web Apps, Marketing, E-Commerce, Dashboard, and More.
+
+500+ multipurpose, free and premium Tailwind UI components that you can copy-paste and also empowers you to build high-quality custom website interfaces. Such as data-rich dashboards, e-commerce shops, web app user interfaces, high-converting landing pages, complete website frontends, site templates, and more - without coding or designing from scratch.
+
+{: .external-links}
+[View Tailgrids](https://tailgrids.com/)
+
 
 ---
 
