@@ -14,14 +14,11 @@ Well crafred premium design kit for bricks builder and winden.
 {: .external-links}
 [View Nintu.io](https://nintu.io/)
 
+# Free
 
-## Tailwind-UI
-![](../../img/des-kits/Tailwind-UI.png)
+---
 
-Official Tailwind CSS components library
 
-{: .external-links}
-[View Tailwind UI](https://tailwindui.com/)
 
 
 ## daisyUI
@@ -78,16 +75,9 @@ Flowbite has over 450 components; the documentation has component code for HTML 
 [View Flowbite](https://flowbite.com/)
 
 
-## Tailwind UI Kit
-![](../../img/des-kits/Tailwind-UI-Kit.png)
-
-Tailwind UI Kit has over 1,300 components; the documentation has component code for HTML, Vue, Angular, and React.
-
-{: .external-links}
-[View Tailwind UI Kit]([Tailwind-UI-Kit.png](https://tailwinduikit.com/))
 
 
-## HyperUI
+## MerakiUI
 ![](../../img/des-kits/Meraki.png)
 
 Meraki UI has over 135 components; the documentation has component code for HTML. The project has over 1,500 stars on GitHub.
@@ -97,13 +87,13 @@ Meraki UI has over 135 components; the documentation has component code for HTML
 
 
 
-## Meraki UI
+## Tailblocks
 ![](../../img/des-kits/Tailblocks.png)
 
 Tailblocks has over 60 components; the documentation has component code for HTML. The project has over 7,500 stars on GitHub.
 
 {: .external-links}
-[View Meraki UI](https://tailblocks.cc/)
+[View Tailblocks](https://tailblocks.cc/)
 
 
 ## HyperUI
@@ -161,6 +151,22 @@ Preline has over 250 components; the documentation has component code for HTML. 
 {: .external-links}
 [View Material Tailwind](https://preline.co/)
 
+
+
+# Premium
+--- 
+
+
+## Tailwind-UI
+![](../../img/des-kits/Tailwind-UI.png)
+
+Official Tailwind CSS components library
+
+{: .external-links}
+[View Tailwind UI](https://tailwindui.com/)
+
+
+
 ## Shuffle
 ![](../../img/des-kits/shuffle.png)
 
@@ -169,6 +175,14 @@ Shuffle gives you 6,900+ fully responsive UI components to get you started. You 
 {: .external-links}
 [View Shuffle](https://shuffle.dev/)
 
+
+## Tailwind UI Kit
+![](../../img/des-kits/Tailwind-UI-Kit.png)
+
+Tailwind UI Kit has over 1,300 components; the documentation has component code for HTML, Vue, Angular, and React.
+
+{: .external-links}
+[View Tailwind UI Kit](https://tailwinduikit.com/)
 
 ---
 
