@@ -14,8 +14,9 @@ Well crafred premium design kit for bricks builder and winden.
 {: .external-links}
 [View Nintu.io](https://nintu.io/)
 
-# Free
 
+---
+# Free
 ---
 
 
@@ -153,6 +154,7 @@ Preline has over 250 components; the documentation has component code for HTML. 
 
 
 
+---
 # Premium
 --- 
 
@@ -164,7 +166,6 @@ Official Tailwind CSS components library
 
 {: .external-links}
 [View Tailwind UI](https://tailwindui.com/)
-
 
 
 ## Shuffle
