@@ -53,6 +53,8 @@ will wrap images in p with class="col-2"
 
 OEmbed (Youtube)
 
+```
 {% include youtube.html id="xxxxxxx" %}
+```
 
 replace xxxxxxx with youtubeID and not the entire URL
