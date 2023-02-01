@@ -131,7 +131,7 @@ Tailwind Starter Kit has over 120 components; the documentation has component co
 
 
 ## Material Tailwind
-![](../../img/des-kits/Tailwind-Starter-Kit.png)
+![](../../img/des-kits/Material-Tailwind.png)
 
 Material Tailwind has over 20 components; the documentation has component code for HTML & React. The project has over 1,200 stars on GitHub and gets around 8,100 weekly downloads on npm.
 
