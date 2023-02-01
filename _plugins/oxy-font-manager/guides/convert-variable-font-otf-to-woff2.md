@@ -4,7 +4,7 @@ title: Convert Variable Font OTF to WOFF2
 
 **If you are using online font generators they will break variable fonts as they are designed for static font faces. They will remove all except the default font face.**
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="281" loading="lazy" src="https://www.youtube.com/embed/2BxdUmEvqFA?feature=oembed" title="Convert Variable Font" width="500"></iframe></div></figure>
+{% include youtube.html id="2BxdUmEvqFA" %}
 
 Create a folder on your desktop. Open your terminal.
 
