@@ -62,23 +62,6 @@
     {% endfor %}
 </div>   
 
-
-{% assign tutorials_plugins = site.plugins | where: "category", "tutorials" %}
-{% assign sorted_plugins_by_tutorials = tutorials_plugins | sort_natural: "order" %}
-
-<div class="nav-item top-level ">
-    <h4 class="mb-md uppercase p-md opacity-50">Tutorials</h4>
-    
-    {% for plugin in sorted_plugins_by_tutorials %}                    
-        {% if plugin.url contains path_array[1] %}
-        <div class="nav-item {% if plugin.url == page.url %}current{% endif %}">
-            <a class="p-md block rounded-md" href="{{ site.baseurl }}{{ plugin.url }}">{{ plugin.title }}</a>
-        </div>
-        {% endif %}
-    {% endfor %}
-</div>   
-
-
 {% assign integrations_plugins = site.plugins | where: "category", "integrations" %}
 {% assign sorted_plugins_by_integrations = integrations_plugins | sort_natural: "order" %}
 
@@ -93,4 +76,22 @@
         {% endif %}
     {% endfor %}
 </div>   
+
+
+{% assign resources_plugins = site.plugins | where: "category", "resources" %}
+{% assign sorted_plugins_by_resources = resources_plugins | sort_natural: "order" %}
+
+<div class="nav-item top-level ">
+    <h4 class="mb-md uppercase p-md opacity-50">Resources</h4>
+    
+    {% for plugin in sorted_plugins_by_resources %}                    
+        {% if plugin.url contains path_array[1] %}
+        <div class="nav-item {% if plugin.url == page.url %}current{% endif %}">
+            <a class="p-md block rounded-md" href="{{ site.baseurl }}{{ plugin.url }}">{{ plugin.title }}</a>
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>   
+
+
 
