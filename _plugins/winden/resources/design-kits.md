@@ -215,6 +215,4 @@ And given Tailwind's popularity, it's super quick to find useful resources in th
 
 [Content Credits - Stackdiary](https://stackdiary.com/tailwind-components-ui-kits/?fbclid=IwAR1PFaS5Sh1G6GRtxD8seRL_rkwk4DLiDY5fVcRKUX2-k1RB5QxojvcMwpE#improving-the-design-and-development-process)
 
-![Material-Tailwind](https://user-images.githubusercontent.com/1234350/216119534-c05f5555-1f55-4120-b447-92ef2e8f2c35.png)
-
 
