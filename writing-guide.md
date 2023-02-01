@@ -48,3 +48,5 @@ will wrap images in p with class="col-2"
 .col-2
 .col-3
 .col-4
+
+.oembed
