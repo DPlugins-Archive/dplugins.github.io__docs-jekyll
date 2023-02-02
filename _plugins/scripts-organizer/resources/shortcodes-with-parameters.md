@@ -3,7 +3,7 @@ Title: Shortcodes with Parameters
 ---
 
 # PHP Code
-```php
+~~~php
 
 <?php
 
@@ -11,7 +11,7 @@ function dplugins_shortcode_func( $atts ){
 
 $attributes = shortcode_atts( array(
 
-'id' => '',
+    'id' => '',
 
 ), $atts );
 
@@ -32,20 +32,11 @@ add_shortcode( 'dplugins_shortcode', 'dplugins_shortcode_func' );
 ?>
 
 
-```
+~~~
 
 
 # Usage
 
-```
-[shortcode id="YOUR-PARAMETER"]
-```
-
-# HTML Output
-
-```html
-
-
-```
-
-
+~~~
+[dplugins_shortcode id="YOUR-PARAMETER"]
+~~~
