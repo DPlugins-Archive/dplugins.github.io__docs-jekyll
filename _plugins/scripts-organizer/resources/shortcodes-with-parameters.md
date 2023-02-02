@@ -17,9 +17,11 @@ $attributes = shortcode_atts( array(
 
 ob_start();
 
-$post_id = $attributes['id'];
-
-echo get_the_content($post_id);
+$post_id = $attributes['id']; ?>
+    <div class="shortcode-wrap">
+        echo get_the_content($post_id);
+    </div>
+<?php
 
 return ob_get_clean();
 
