@@ -10,6 +10,6 @@ collections:
     folder: "content/blog/{{tag}}"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
+      - { label: "Title", name: "title", widget: "string"}
       - { label: 'Blog post content', name: 'body', widget: 'markdown' }
-      - { tags: ["basic", "advanced", "right"]}
+      - { - label: "Tags", name: "tags", widget: "select",  options: ["basic", "advanded", "right"] }
