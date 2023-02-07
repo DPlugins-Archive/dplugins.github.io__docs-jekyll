@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "jekyll serve",
-    "tailwind:watch": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch"
+    "tailwind:watch": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
+    "restartServer": "bundle clean --force"
   },
   "repository": {
     "type": "git",
