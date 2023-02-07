@@ -12,4 +12,4 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string"}
       - { label: 'Blog post content', name: 'body', widget: 'markdown' }
-      - { - label: "Tags", name: "tags", widget: "select",  options: ["basic", "advanded", "right"] }
+      - { label: "Tags", name: "tags", widget: "select",  options: ["basic", "advanded", "right"] }
