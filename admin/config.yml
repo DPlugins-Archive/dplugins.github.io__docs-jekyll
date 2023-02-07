@@ -10,9 +10,9 @@ collections:
     folder: "content/{{plugin}}/{{category}}"
     create: true
     fields:
-      - { label: "Title", name: "title", widget: "string"}
-      - { label: 'Blog post content', name: 'body', widget: 'markdown' }
       - { label: "Plugin", name: "plugin", widget: "select",  options: ["acf-blocks", "asura", "collaboration", "devkit", "font-hero", "oxy-font-manager", "plain-classes-gut", "sandbox", "scripts-organizer", "swiss-knife", "temp", "winden", "wp-admin-cleaner"] }
       - { label: "Category", name: "category", widget: "select",  options: ["basics", "guides", "advanced", "resources", "integrations"] }
+      - { label: "Title", name: "title", widget: "string"}
+      - { label: 'Blog post content', name: 'body', widget: 'markdown' }
 
 
