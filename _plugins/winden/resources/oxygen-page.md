@@ -47,5 +47,3 @@ Will will cover how to create an entire design by extending and reusing Tailwind
 ## Complete Project From Start To Finish. Page Design With Oxygen & Tailwind
 
 {% include youtube.html id="EDCaMmWbrZE" %}
-
-
