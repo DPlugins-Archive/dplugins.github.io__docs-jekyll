@@ -3,6 +3,9 @@ title: 'WP Admin Cleaner'
 ---
 
 # Installation
+![]()
+
+<!--  -->
 
 **To install the plugin you need to do next steps:**
 
