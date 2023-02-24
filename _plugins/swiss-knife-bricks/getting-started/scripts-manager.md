@@ -11,10 +11,6 @@ Check Emable Scripts Manger and save changes.
 
 ![](../../img/sc_manager_1.png)
 
-## Enable files upload
-
-For self-hosting scripts, we use WordPress media uploaded and save scripts inside the media upload folder. WordPress does not allow .js and .css file types to be uploaded by default. That is why you must check "Allow CSS/JS Uploads." If you use scripts from CDN, you will not need this option enabled. 
-
 ## Add new script
 
 Navigate to the Swiss Knife `Bricks > Scripts Manager` and press "+ Add New Script"
@@ -68,4 +64,17 @@ Working with animations that move or hide elements is difficult. For this reason
 
 ### Upload file or paste cdn link
 
+If you are using Scripts from the CDN you can simply paste your link.
+If you want to host your scripts we are proving option to enable scripts upload as well. Once that feature is enabled click on the up arrow next to the input field and WordPress media uploader will be presented. Simply drag and drop script same as any other media file.
 
+![](../../img/script-upload.gif)
+
+In case you did not enabled "Allow CSS/JS Uploads" you will get error when you try to upload scripts
+
+![](../../img/upload-error.png)
+
+## Enable files upload
+
+For self-hosting scripts, we use WordPress media uploaded and save scripts inside the media upload folder. WordPress does not allow .js and .css file types to be uploaded by default. That is why you must check "Allow CSS/JS Uploads." under Features > Activate Features > Scripts & Styles.
+
+If you use scripts from CDN, you will not need this option enabled. 
