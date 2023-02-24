@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "jekyll serve",
+    "start": "jekyll serve bundle exec",
     "tailwind:watch": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
     "restartServer": "bundle clean --force"
   },
