@@ -77,4 +77,6 @@ In case you did not enabled "Allow CSS/JS Uploads" you will get error when you t
 
 For self-hosting scripts, we use WordPress media uploaded and save scripts inside the media upload folder. WordPress does not allow .js and .css file types to be uploaded by default. That is why you must check "Allow CSS/JS Uploads." under Features > Activate Features > Scripts & Styles.
 
+![](../img/enable_upload.png)
+
 If you use scripts from CDN, you will not need this option enabled. 
