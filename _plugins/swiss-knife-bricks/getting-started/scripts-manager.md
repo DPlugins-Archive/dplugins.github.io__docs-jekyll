@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 3
 description: Winden is a Tailwind CSS integration for WordPress page builders.
 title: Scripts Manager
 ---
