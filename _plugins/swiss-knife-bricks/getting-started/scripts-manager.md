@@ -9,7 +9,7 @@ title: Scripts Manager
 This feature is disabled by the default.
 Check Emable Scripts Manger and save changes.
 
-![](./img/sc_manager_1.png)
+![](../../img/sc_manager_1.png)
 
 ## Enable files upload
 
@@ -19,16 +19,16 @@ For self-hosting scripts, we use WordPress media uploaded and save scripts insid
 
 Navigate to the Swiss Knife `Bricks > Scripts Manager` and press "+ Add New Script"
 
-![](./img/sc_manager_2.png)
+![](../../img/sc_manager_2.png)
 
 ## Scripts Configuration
 
-![](./img/sc_manager_3.png)
+![](../../img/sc_manager_3.png)
 
 ### Script Name
 
 To make it easier to recognize, choose a unique and descriptive name. 
-![](./img/sc_manager_registered_scripts.png)
+![](../../img/sc_manager_registered_scripts.png)
 
 ### Script Type
 
@@ -55,9 +55,9 @@ Use **Enqueue Script**.
 #### Add Script or Style on selected page or post
 Use **Register Script**. With this option script will be prepared but not added on the page. On the page you want to display it you need to paste `wp_enqueue_script('gsap');` to the code block.
 
-![](./img/copy.png)
+![](../../img/copy.png)
 
-![](./img/code_block.png)
+![](../../img/code_block.png)
 
 In this case GSAP will be loaded on pages where you have code blocks with `<?php wp_enqueue_script('gsap'); ?>`			
 
