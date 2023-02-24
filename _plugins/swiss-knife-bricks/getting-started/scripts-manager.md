@@ -9,22 +9,22 @@ title: Scripts Manager
 This feature is disabled by the default.
 Check Emable Scripts Manger and save changes.
 
-![](./img/sc_manager_1.png)
+![](/img/sc_manager_1.png)
 
 ## Add new script
 
 Navigate to the Swiss Knife `Bricks > Scripts Manager` and press "+ Add New Script"
 
-![](./img/sc_manager_2.png)
+![](/img/sc_manager_2.png)
 
 ## Scripts Configuration
 
-![](./img/sc_manager_3.png)
+![](/img/sc_manager_3.png)
 
 ### Script Name
 
 To make it easier to recognize, choose a unique and descriptive name. 
-![](./img/sc_manager_registered_scripts.png)
+![](/img/sc_manager_registered_scripts.png)
 
 ### Script Type
 
@@ -51,9 +51,9 @@ Use **Enqueue Script**.
 #### Add Script or Style on selected page or post
 Use **Register Script**. With this option script will be prepared but not added on the page. On the page you want to display it you need to paste `wp_enqueue_script('gsap');` to the code block.
 
-![](./img/copy.png)
+![](/img/copy.png)
 
-![](./img/code_block.png)
+![](/img/code_block.png)
 
 In this case GSAP will be loaded on pages where you have code blocks with `<?php wp_enqueue_script('gsap'); ?>`			
 
@@ -67,11 +67,11 @@ Working with animations that move or hide elements is difficult. For this reason
 If you are using Scripts from the CDN you can simply paste your link.
 If you want to host your scripts we are proving option to enable scripts upload as well. Once that feature is enabled click on the up arrow next to the input field and WordPress media uploader will be presented. Simply drag and drop script same as any other media file.
 
-![](./img/script-upload.gif)
+![](/img/script-upload.gif)
 
 In case you did not enabled "Allow CSS/JS Uploads" you will get error when you try to upload scripts
 
-![](./img/upload-error.png)
+![](/img/upload-error.png)
 
 ## Enable files upload
 
