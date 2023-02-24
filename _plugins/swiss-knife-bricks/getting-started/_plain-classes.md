@@ -31,8 +31,7 @@ Current Swiss Knife for Bricks features:
   - Write classes as plain class rather than tags. 
   - It is much easier and faster to edit class velues
   - You don't need to load tailwind classes into database
-
 	
-## Comparison with other tools
+## Comparison with other tools {#comparison}
 
 There is no similar plugin in the marked in Bricks ecosystem that can do this what Swiss Knife can. If you find it please let us know. 
