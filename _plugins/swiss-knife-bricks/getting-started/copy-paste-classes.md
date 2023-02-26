@@ -1,5 +1,5 @@
 ---
-order: 10
+order: 9
 description: Winden is a Tailwind CSS integration for WordPress page builders.
 title: Copy Paste Classes
 ---
