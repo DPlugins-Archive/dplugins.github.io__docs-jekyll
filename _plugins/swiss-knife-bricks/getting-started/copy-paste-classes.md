@@ -1,37 +1,53 @@
 ---
-order: 1
+order: 3
 description: Winden is a Tailwind CSS integration for WordPress page builders.
-title: Introduction
+title: Copy Paste Classes
 ---
 
-### 👋 Swiss Knife for Bricks is hanfull set of features that will speed up your workflow
+If you are using utility classes or you have already added content, styling should be easy. At the moment, you need to 
+1. Open element
+2. Read and remember classes 
+3. and then type it into another element. 
+
+The biggest problem is that you must repeatedly repeat steps 1, 2, and 3.
+
+### Focus should be on visuals. 
+
+1. See the element that you need to reuse styles. 
+2. You copy all styles (classes) that element has, and you 
+3. Paste it to another element or multiple elements. 
+
+Coping the classes is also beneficial: the action can be repeated until you don't copy another style or clear the clipboard data. 
+
+## Enable Copy Paste action
+
+This feature is disabled by the default.
+Check `Copy/Paste Classes` and save changes.
+
+![](../img/activate-copy-paste.png)
 
 
-## Features
+## Copy Paste action location
 
-Current Swiss Knife for Bricks features:
+Once fateature is activated it will be available under right click options.
+![](../img/right-click.png)
 
-- **⚛️ Scripts manager** :
-  - Register or enqueue Script libraries and CSS Frameworks form CDN
-  - Selfhoas Registered or enqueueed Script libraries and CSS Frameworks
-- **🔓 Copy & Paste Classes** :
-  - Build once and reuse everywhere
-  - Added option to the right click to copy paste classes
-- **✂️ Multiselect, multiedits** :
-  - Select multiple element and edit multiple styles at once
-  - Select multiple element and attach multiple classes at once 
-- **⚖️ HTML Editor to create elements** :
-  - Write plain HTML and convert it to Bricks Elements
-  - HTML editor is powered with Emmet autocomplete
-- **⚡️Convert HTML to Bricks Builder Elements** : 
-  - Use your favorite IDE (VS, Sublime ...) to write HTML and paste as Bricks Elements
-  - Copy code from any website and paste as Bricks Elemens
-  - Perfect way to transfer static website templates into Dynamic Bricks Website
-- **⚡️Plain Classes** :   
-  - Write classes as plain class rather than tags. 
-  - It is much easier and faster to edit class velues
-  - You don't need to load tailwind classes into database
-	
-## Comparison with other tools {#comparison}
+## Copy Bricks Classes
 
-There is no similar plugin in the marked in Bricks ecosystem that can do this what Swiss Knife can. If you find it please let us know. 
+You can copy Bricks Elements Classes from two locations. 
+1. Hover over the element inside the canvas and press right click.
+    ![](../img/copy-clasess.png)
+2. Hover over the element inside the tree (Structure) and press right click. 
+    ![](../img/copy-clasess-tree.png)
+
+## Paste Bricks Classes
+
+Same as copy Bricks Elements Classes you can paste it from two locations. 
+1. Hover over the element inside the canvas and press right click.
+    ![](../img/paste-classes.png)
+2. Hover over the element inside the tree (Structure) and press right click. 
+    ![](../img/paste-classes-tree.png)
+
+
+
+

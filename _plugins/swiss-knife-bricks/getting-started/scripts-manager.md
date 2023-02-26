@@ -7,7 +7,7 @@ title: Scripts Manager
 ## Enable the feature
 
 This feature is disabled by the default.
-Check Emable Scripts Manger and save changes.
+Check `Enable Scripts Manger ` and save changes.
 
 ![](../img/sc_manager_1.png)
 
