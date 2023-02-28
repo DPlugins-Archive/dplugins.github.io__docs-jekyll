@@ -4,6 +4,10 @@ description: Winden is a Tailwind CSS integration for WordPress page builders.
 title: Paste HTML as Bricks elements
 ---
 
+# Paste HTML as Bricks elements
+
+Revolutionary feature for bricks that will allow you to create entire website page or template with just couple of clicks. Copy entire page. Paste into bricks. Connect framework or add your classes system and you are up and running. 
+
 ## Enable the feature
 
 This feature is disabled by the default.
@@ -32,6 +36,19 @@ Once you copy HTML code use Right Click > Paste HTML or press "Down Arrow inside
 
 ![](../img/paste-html-right-click.png)
 
+### What will be converted
+
+- All html elements 
+	-  h1, h2, h3, h4, h5, h6
+	-  p, link, buttons
+	-  div, span
+	-  images, svg (as img element, you will need to manually transfer image file to the media library)
+	-  inline svg (will be added as code block as that is the closes that bricks have atm)
+	-  classes will be attached to the elements
+
+### What will not be converted	
+
+Classes values. We are converting Classes values into Bricks. We are attacing classes names to the elements. 
 
 ## First time Usage 
 
