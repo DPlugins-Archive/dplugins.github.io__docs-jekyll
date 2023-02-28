@@ -16,7 +16,7 @@ Check `Paste HTML` and save changes.
 ## Before we get started
 
 1. Be sure that website is https
-	![](../img/secure-website.png)
+	 
 2. If you are pasting inline SVG elements be sure to enable "Code Execution" in Bricks Builder
 	![](../img/code-execution.png)
 	
