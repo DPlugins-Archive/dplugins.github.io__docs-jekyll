@@ -49,5 +49,4 @@ Same as copy Bricks Elements Classes you can paste it from two locations.
     ![](../img/paste-classes-tree.png)
 
 
-
-
+**Note: Website needs to be on https for this to work. We are using clipboard feature that is available in chrome. **

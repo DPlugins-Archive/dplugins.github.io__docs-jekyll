@@ -6,7 +6,8 @@
   "scripts": {
     "start": "jekyll serve bundle exec",
     "tailwind:watch": "tailwindcss -i ./assets/css/input.css -o ./assets/css/output.css --watch",
-    "restartServer": "bundle clean --force"
+    "restartServer": "bundle clean --force",
+    "check": "lsof -wni tcp:4000"
   },
   "repository": {
     "type": "git",
