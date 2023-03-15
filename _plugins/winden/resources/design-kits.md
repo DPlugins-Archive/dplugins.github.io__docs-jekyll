@@ -21,7 +21,7 @@ Looking to breathe new life into your website? Look no further!
 Our selection of Tailwind blocks makes it easy to create a professional, eye-catching website. With a wide range of elements, sections, pages and designs to choose from, you'll be able to create a website that perfectly suits your needs. So, why wait? Start building your dream website today!
 
 {: .external-links}
-[View Bricks4Woo](https://brikcks4woo.com)
+[View Bricks4Woo](https://bricks4woo.com)
 
 
 ---
