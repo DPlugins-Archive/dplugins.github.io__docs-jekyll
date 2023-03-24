@@ -1,10 +1,10 @@
 ---
 order: 1
-description: Winden is a Tailwind CSS integration for WordPress page builders.
+description: Swiss Knife for Bricks speeds up the workflow with Bricks, a Wordpress page builder.
 title: Introduction
 ---
 
-### 👋 Swiss Knife for Bricks is hanfull set of features that will speed up your workflow
+### 👋 Swiss Knife for Bricks is handfull set of features that will speed up your workflow
 
 
 ## Features
@@ -12,8 +12,8 @@ title: Introduction
 Current Swiss Knife for Bricks features:
 
 - **⚛️ Scripts manager** :
-  - Register or enqueue Script libraries and CSS Frameworks form CDN
-  - Selfhoas Registered or enqueueed Script libraries and CSS Frameworks
+  - Register or enqueue script libraries and CSS frameworks from CDN
+  - Selfhost registered or enqueueed script libraries and CSS Frameworks
 - **🔓 Copy & Paste Classes** :
   - Build once and reuse everywhere
   - Added option to the right click to copy paste classes
